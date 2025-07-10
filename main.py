@@ -16,7 +16,6 @@ class Rarity(Enum):
     RARE=3
     ULTRA_RARE=4
 
-
 #Creer une fausse liste de n cartes avec une rarite fixe
 def createFalseCardList(n, rarity):
     cardList = list()
@@ -51,8 +50,8 @@ def createBooster(common, uncommon, rare):
         cardList.append(drawRandomCard(rare))
     return cardList
 
-#Creer un deck de n cartes à partir de 3/4 listes de cartes
-def createDeck(common, uncommon, rare, n):
+#Creer un deck de n cartes à partir de 4 listes de cartes: common, uncommon, rare, ultra_rare
+def createDeck(common, uncommon, rare, ultra_rare, n):
     deck = list()
     for i in range (n):
         r = random()
@@ -60,10 +59,10 @@ def createDeck(common, uncommon, rare, n):
             deck.append(drawRandomCard(common))
         elif r <= 0.82:
             deck.append(drawRandomCard(uncommon))
-        elif r <= 93:
+        elif r <= 0.93:
             deck.append(drawRandomCard(rare))
         else:
-            deck.append(drawRandomCard(rare)) #TODO : mettre les ultra rares
+            deck.append(drawRandomCard(ultra_rare))
     return deck
 
 #Creer une liste de cartes à partir du JSON reference
@@ -80,6 +79,14 @@ def retrieveByRarity(l, rarity):
         if k.rarity == rarity:
             cardList.append(k)
     return cardList
+
+#Count le nombre de cartes avec la rarete correspondante
+def countRarity(cardList, rarity):
+    counter = 0
+    for k in cardList:
+        if k.rarity == rarity:
+            counter += 1
+    return counter
 
 #Fonction de test
 def main():
@@ -105,18 +112,37 @@ def main():
     print(f"Longueur du deck: {len(deck)}")
 
 def main2():
+    print("Importing...")
     cardListSetOne = importCardListFromJSON(".\data\dataSetOne")
     cardListSetTwo = importCardListFromJSON(".\data\dataSetTwo")
     cardListSetThree = importCardListFromJSON(".\data\dataSetThree")
 
-    commonCardList = list()
-    for k in range(3):
-        commonCardList += (retrieveByRarity(cardListSetOne, "common"))
+    print("Import done\n")
+
+    print("Concatenation...")
+    cardListeAllSet = cardListSetOne + cardListSetTwo + cardListSetThree
+    print("Concatenation done.\n")
+
+    print("Retrieving by rarity...")
+    commonCardList = (retrieveByRarity(cardListeAllSet, "common"))
+    uncommonCardList = (retrieveByRarity(cardListeAllSet, "uncommon"))
+    rareCardList = (retrieveByRarity(cardListeAllSet, "rare"))
+    veryrareCardList = (retrieveByRarity(cardListeAllSet, "ultra_rare"))
+    print("Retrieved.\n")
+
+    print("Deck creation...")
+    L = createDeck(commonCardList, uncommonCardList, rareCardList, veryrareCardList, 200)
+    print("Deck created.\n")
+
+    print("Couting by rarity from deck...")
+    commonCount = countRarity(L, "common")
+    uncommonCount = countRarity(L, "uncommon")
+    rareCount = countRarity(L, "rare")
+    ultraRareCount = countRarity(L, "ultra_rare")
+    print("Count done.\n")
+
+    print(f"Commons: {commonCount}\nUncommons: {uncommonCount}\nRares: {rareCount}\nUltra_rare: {ultraRareCount}\n")
     
 
-if __name__ == "__name__":
+if __name__ == "__main__":
     main2()
-
-#str = jsonpickle.dumps(commonsList, indent=4)
-
-#print(str)
