@@ -1,0 +1,702 @@
+[
+    {
+        "py/object": "Card.Card",
+        "id": "111",
+        "name": "Flame Novice",
+        "rarity": "common",
+        "type": "Human "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "112",
+        "name": "Flame Guard Recruit",
+        "rarity": "common",
+        "type": "Demon "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "113",
+        "name": "Flame Lizard Archer",
+        "rarity": "common",
+        "type": "Lizard "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "114",
+        "name": "Partmole Warhound",
+        "rarity": "common",
+        "type": "Beast "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "115",
+        "name": "Partmole Axethrower",
+        "rarity": "common",
+        "type": "Lizard "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "116",
+        "name": "Beacon of Cai-Shae",
+        "rarity": "common",
+        "type": "Weapon "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "117",
+        "name": "Shrine of Mourning",
+        "rarity": "uncommon",
+        "type": "Base "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "118",
+        "name": "Beheamorph",
+        "rarity": "uncommon",
+        "type": "Beast "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "119",
+        "name": "Flame Lizard Commander",
+        "rarity": "rare",
+        "type": "Lizard "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "120",
+        "name": "Parmetic Deathspeaker\u00a0",
+        "rarity": "rare",
+        "type": "Demon "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "121",
+        "name": "Noram Zealot\u00a0",
+        "rarity": "uncommon",
+        "type": "Missionary "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "122",
+        "name": "Flame Archmage",
+        "rarity": "rare",
+        "type": "Human "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "123",
+        "name": "Flameheart",
+        "rarity": "uncommon",
+        "type": "Beast "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "124",
+        "name": "Fire Witch Freedonia",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "125",
+        "name": "Shaman Zolda",
+        "rarity": "ultra_rare",
+        "type": "Betrayer "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "126",
+        "name": "General Lug\u00a0",
+        "rarity": "ultra_rare",
+        "type": "Warlord "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "127",
+        "name": "Cloudrunner Marauder",
+        "rarity": "common",
+        "type": "Merfolk "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "128",
+        "name": "Queen\u2019s Courier",
+        "rarity": "common",
+        "type": "Elemental "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "129",
+        "name": "Frost Guards",
+        "rarity": "common",
+        "type": "Elemental "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "130",
+        "name": "Venoan Spy",
+        "rarity": "uncommon",
+        "type": "Merfolk "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "131",
+        "name": "Siam\u2019s Lookout",
+        "rarity": "common",
+        "type": "Merfolk "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "132",
+        "name": "Aluhja Moving Citadel",
+        "rarity": "uncommon",
+        "type": "Base "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "133",
+        "name": "Ghostship",
+        "rarity": "common",
+        "type": "Weapon "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "134",
+        "name": "Shadow Diver",
+        "rarity": "common",
+        "type": "Human "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "135",
+        "name": "Ship\u2019s Surgeon",
+        "rarity": "rare",
+        "type": "Merfolk "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "136",
+        "name": "Okunada Moving Temple",
+        "rarity": "rare",
+        "type": "Base "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "137",
+        "name": "Aluhja Zealot",
+        "rarity": "uncommon",
+        "type": "Missionary "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "138",
+        "name": "Queen\u2019s Emissary",
+        "rarity": "uncommon",
+        "type": "Elemental "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "139",
+        "name": "Aluhja Inquisitrix",
+        "rarity": "rare",
+        "type": "Human "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "140",
+        "name": "Sarma of Tinoa",
+        "rarity": "ultra_rare",
+        "type": "Hero "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "141",
+        "name": "Corleo, Venoan Capo",
+        "rarity": "ultra_rare",
+        "type": "Betrayer "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "142",
+        "name": "Admiral Belta",
+        "rarity": "ultra_rare",
+        "type": "Warlord "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "143",
+        "name": "Verzar Swordman",
+        "rarity": "common",
+        "type": "Human "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "144",
+        "name": "Relentless Skeleton",
+        "rarity": "common",
+        "type": "Undead "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "145",
+        "name": "Far Land Sand Dog",
+        "rarity": "common",
+        "type": "Beast "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "146",
+        "name": "Dwarf Sniper",
+        "rarity": "common",
+        "type": "Dwarf "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "147",
+        "name": "Battering Ram",
+        "rarity": "uncommon",
+        "type": "Weapon "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "148",
+        "name": "Novogus Band Wagon",
+        "rarity": "rare",
+        "type": "Undead "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "149",
+        "name": "Novogus Warrior",
+        "rarity": "uncommon",
+        "type": "Undead "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "150",
+        "name": "Verzar Golem",
+        "rarity": "rare",
+        "type": "Elemental "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "151",
+        "name": "Dwarf Battlebuggy",
+        "rarity": "common",
+        "type": "Dwarf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "152",
+        "name": "Dwarf Warbanner",
+        "rarity": "uncommon",
+        "type": "Dwarf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "153",
+        "name": "Dwarf Battle Forge",
+        "rarity": "uncommon",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "154",
+        "name": "Visvar Vaas Zealot",
+        "rarity": "uncommon",
+        "type": "Missionary "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "155",
+        "name": "Novogus Sinbearer",
+        "rarity": "rare",
+        "type": "Undead"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "156",
+        "name": "Archbisshop Jirva",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "157",
+        "name": "Vamas, Tomb Sentinel",
+        "rarity": "ultra_rare",
+        "type": "Betrayer"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "158",
+        "name": "Marshal Akhum",
+        "rarity": "ultra_rare",
+        "type": "Warlord "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "159",
+        "name": "Tree Foxes",
+        "rarity": "common",
+        "type": "Beast"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "160",
+        "name": "Elven Soul Hunter",
+        "rarity": "common",
+        "type": "Elf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "161",
+        "name": "White Tree Haunt",
+        "rarity": "uncommon",
+        "type": "Titan"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "162",
+        "name": "Leapfrog Boss",
+        "rarity": "common",
+        "type": "Anthromorph"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "163",
+        "name": "Elven Plaguedancer",
+        "rarity": "uncommon",
+        "type": "Elf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "164",
+        "name": "Goblin Basher",
+        "rarity": "common",
+        "type": "Goblin"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "165",
+        "name": "Goblin Bomber",
+        "rarity": "common",
+        "type": "Goblin"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "166",
+        "name": "Darksword Samurai",
+        "rarity": "rare",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "167",
+        "name": "Goblin Fort",
+        "rarity": "rare",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "168",
+        "name": "Reaper\u2019s Golem",
+        "rarity": "uncommon",
+        "type": "Elemental"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "169",
+        "name": "Tolicore Zealot",
+        "rarity": "uncommon",
+        "type": "Missionary "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "170",
+        "name": "Alchemist\u2019s Lab",
+        "rarity": "uncommon",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "171",
+        "name": "Elven Night Rider",
+        "rarity": "rare",
+        "type": "Elf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "172",
+        "name": "Prince Lusirion",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "173",
+        "name": "Preature Noova",
+        "rarity": "ultra_rare",
+        "type": "Betrayer"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "174",
+        "name": "Lord Hu",
+        "rarity": "ultra_rare",
+        "type": "Warlord "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "175",
+        "name": "Athenix Citadel",
+        "rarity": "uncommon",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "176",
+        "name": "Flailmonger",
+        "rarity": "uncommon",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "177",
+        "name": "Biolith Centurian",
+        "rarity": "common",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "178",
+        "name": "Biolith War Chariots",
+        "rarity": "common",
+        "type": "Weapon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "179",
+        "name": "Behemoth Terrorformer",
+        "rarity": "uncommon",
+        "type": "Weapon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "180",
+        "name": "Biolith Transporter",
+        "rarity": "common",
+        "type": "Bug"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "181",
+        "name": "Archiver",
+        "rarity": "rare",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "182",
+        "name": "Battle Master",
+        "rarity": "ultra_rare",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "183",
+        "name": "Magic Master",
+        "rarity": "ultra_rare",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "184",
+        "name": "Biolith Battleship",
+        "rarity": "ultra_rare",
+        "type": "Weapon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "185",
+        "name": "Biolith Temple",
+        "rarity": "ultra_rare",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "186",
+        "name": "Sciondar Biolith Gateway",
+        "rarity": "ultra_rare",
+        "type": "Ancient"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "187",
+        "name": "Sword of Juno",
+        "rarity": "rare",
+        "type": "Sacred"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "188",
+        "name": "Hammer of Juno",
+        "rarity": "rare",
+        "type": "Sacred"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "189",
+        "name": "Spire of Juno",
+        "rarity": "ultra_rare",
+        "type": "Sacred"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "190",
+        "name": "Fist of Juno",
+        "rarity": "ultra_rare",
+        "type": "Sacred"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "191",
+        "name": "Absolver Sacrament",
+        "rarity": "uncommon",
+        "type": "Ritual"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "192",
+        "name": "Granvenoa Altar",
+        "rarity": "uncommon",
+        "type": "Ritual"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "193",
+        "name": "Caisen Riot",
+        "rarity": "uncommon",
+        "type": "Ritual"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "194",
+        "name": "Elven Dismissal",
+        "rarity": "rare",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "195",
+        "name": "Dhee\u2019s Command",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "196",
+        "name": "Aluhjan Regeneration",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "197",
+        "name": "Lament for Clare Wil",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "198",
+        "name": "Mesmer\u2019s Envoy",
+        "rarity": "rare",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "199",
+        "name": "Ninja Fate Enhancer",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "200",
+        "name": "Binding Shadows",
+        "rarity": "rare",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "201",
+        "name": "Aluhjan Fieldbond",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "202",
+        "name": "Aluhjan Spellshield",
+        "rarity": "rare",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "203",
+        "name": "Festival of Fire",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "204",
+        "name": "Festival of Water",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "205",
+        "name": "Festival of Earth",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "206",
+        "name": "Festival of Wood",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "207",
+        "name": "Biolith Ascention",
+        "rarity": "ultra_rare",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "208",
+        "name": "Scion\u2019s Revelation",
+        "rarity": "rare",
+        "type": "Sorcery"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "209",
+        "name": "Seer Vizak\u2019s Cleansing",
+        "rarity": "rare",
+        "type": "Sorcery"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "210",
+        "name": "Benediction of Juno",
+        "rarity": "rare",
+        "type": "Sorcery"
+    }
+]

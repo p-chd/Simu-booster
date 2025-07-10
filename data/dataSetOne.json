@@ -1,0 +1,772 @@
+[
+    {
+        "py/object": "Card.Card",
+        "id": "1",
+        "name": "Flame Magus",
+        "rarity": "common",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "2",
+        "name": "Hellfire Spitter",
+        "rarity": "common",
+        "type": "Bug"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "3",
+        "name": "Freedonian Wanderer",
+        "rarity": "common",
+        "type": "Elemental"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "4",
+        "name": "Partmole Flame Lizard",
+        "rarity": "common",
+        "type": "Lizard"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "5",
+        "name": "Firefly Ninja",
+        "rarity": "uncommon",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "6",
+        "name": "Great Minos of Sciondar",
+        "rarity": "rare",
+        "type": "Titan"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "7",
+        "name": "Flame Ascetic",
+        "rarity": "common",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "8",
+        "name": "Partmole Flame Guard",
+        "rarity": "uncommon",
+        "type": "Demon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "9",
+        "name": "Lesser Granvenoa",
+        "rarity": "uncommon",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "10",
+        "name": "Partmole Fire Oracle",
+        "rarity": "uncommon",
+        "type": "Demon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "11",
+        "name": "Triceptaur Behemoth",
+        "rarity": "rare",
+        "type": "Beast"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "12",
+        "name": "Pursuer of Saint Dhees",
+        "rarity": "rare",
+        "type": "Demon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "13",
+        "name": "Infernal Sciondar Dragon",
+        "rarity": "rare",
+        "type": "Dragon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "14",
+        "name": "Didi the Enlightened",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "15",
+        "name": "Warden Hilda",
+        "rarity": "ultra_rare",
+        "type": "Betrayer"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "16",
+        "name": "Crucifixion King Dios IV",
+        "rarity": "ultra_rare",
+        "type": "Noble"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "17",
+        "name": "Sciondar Fire God",
+        "rarity": "ultra_rare",
+        "type": "God"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "18",
+        "name": "Red Cubic",
+        "rarity": "rare",
+        "type": "Egg"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "19",
+        "name": "Monk Elder of Okunada",
+        "rarity": "common",
+        "type": "Merfolk"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "20",
+        "name": "Tritona Ice Guard",
+        "rarity": "common",
+        "type": "Elemental"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "21",
+        "name": "Tritonian Harpoonsman",
+        "rarity": "common",
+        "type": "Merfolk"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "22",
+        "name": "Aluhja Priestess",
+        "rarity": "common",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "23",
+        "name": "Tentacles of Possession",
+        "rarity": "uncommon",
+        "type": "Beast"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "24",
+        "name": "Wolf Ninja",
+        "rarity": "uncommon",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "25",
+        "name": "Cloud Runner",
+        "rarity": "uncommon",
+        "type": "Weapon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "26",
+        "name": "Dancing Temptress",
+        "rarity": "rare",
+        "type": "Undead"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "27",
+        "name": "Venoan Assassin",
+        "rarity": "common",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "28",
+        "name": "Queen's Servant",
+        "rarity": "rare",
+        "type": "Elemental"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "29",
+        "name": "Moving Isle of Kadena",
+        "rarity": "rare",
+        "type": "Beast"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "30",
+        "name": "Don of Venoa",
+        "rarity": "rare",
+        "type": "Titan"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "31",
+        "name": "Dragon of Voice Sea",
+        "rarity": "rare",
+        "type": "Dragon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "32",
+        "name": "Mercenary Saviour Latoo",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "33",
+        "name": "Siam, Traitor of Seas\u00a0",
+        "rarity": "ultra_rare",
+        "type": "Betrayer"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "34",
+        "name": "Imposter Queen Anfisa",
+        "rarity": "ultra_rare",
+        "type": "Noble"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "35",
+        "name": "Tritona Goddess",
+        "rarity": "ultra_rare",
+        "type": "God"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "36",
+        "name": "Blue Cubic",
+        "rarity": "rare",
+        "type": "Egg"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "37",
+        "name": "Verzar Canine",
+        "rarity": "common",
+        "type": "Beast"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "38",
+        "name": "Verzar Foot Soldier",
+        "rarity": "common",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "39",
+        "name": "Stone Wing Dwarf",
+        "rarity": "common",
+        "type": "Dwarf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "40",
+        "name": "Skeleton Soldier",
+        "rarity": "common",
+        "type": "Undead"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "41",
+        "name": "Giant Axe Dwarf",
+        "rarity": "common",
+        "type": "Dwarf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "42",
+        "name": "Spider Ninja",
+        "rarity": "uncommon",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "43",
+        "name": "Novogus Catapult",
+        "rarity": "uncommon",
+        "type": "Weapon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "44",
+        "name": "Dark Yokozuna Sekimaru",
+        "rarity": "uncommon",
+        "type": "Titan"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "45",
+        "name": "Se Hollyn Fortress",
+        "rarity": "uncommon",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "46",
+        "name": "Novogus Golem",
+        "rarity": "rare",
+        "type": "Beast"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "47",
+        "name": "Dungeon of Ten Tyrants",
+        "rarity": "uncommon",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "48",
+        "name": "Verzar Elephant Brigade",
+        "rarity": "uncommon",
+        "type": "Elemental"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "49",
+        "name": "Undead Dragon",
+        "rarity": "rare",
+        "type": "Dragon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "50",
+        "name": "Arelai the Protector",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "51",
+        "name": "Black Hood Dwarf Vulitra",
+        "rarity": "ultra_rare",
+        "type": "Betrayer"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "52",
+        "name": "Undead King Novogus",
+        "rarity": "ultra_rare",
+        "type": "Noble"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "53",
+        "name": "Novogus Gravekeeper",
+        "rarity": "ultra_rare",
+        "type": "God"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "54",
+        "name": "Yellow Cubic",
+        "rarity": "rare",
+        "type": "Egg"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "55",
+        "name": "Leapfrog Bandit",
+        "rarity": "common",
+        "type": "Anthromorph"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "56",
+        "name": "Green Lycanthrope",
+        "rarity": "common",
+        "type": "Anthromorph"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "57",
+        "name": "Bewitching Elf Archeress",
+        "rarity": "common",
+        "type": "Elf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "58",
+        "name": "Sleeptrap",
+        "rarity": "common",
+        "type": "Plant"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "59",
+        "name": "Elven Berserker Maiden",
+        "rarity": "uncommon",
+        "type": "Elf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "60",
+        "name": "Samurai Nagirashu",
+        "rarity": "uncommon",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "61",
+        "name": "Twin Goblins",
+        "rarity": "common",
+        "type": "Goblin"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "62",
+        "name": "Swallow Ninja",
+        "rarity": "uncommon",
+        "type": "Human"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "63",
+        "name": "Juno Tree Haunt",
+        "rarity": "rare",
+        "type": "Titan"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "64",
+        "name": "Elven Rider",
+        "rarity": "uncommon",
+        "type": "Elf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "65",
+        "name": "Juno Prisoner Trap",
+        "rarity": "uncommon",
+        "type": "Plant"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "66",
+        "name": "Elven Death Dancer",
+        "rarity": "rare",
+        "type": "Elf"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "67",
+        "name": "Juno Dragon",
+        "rarity": "rare",
+        "type": "Dragon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "68",
+        "name": "Edin the Persecuted",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "69",
+        "name": "Inquisitor Koog",
+        "rarity": "ultra_rare",
+        "type": "Betrayer"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "70",
+        "name": "Green Erlking Zomba",
+        "rarity": "ultra_rare",
+        "type": "Noble"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "71",
+        "name": "Exalted Elven Deity",
+        "rarity": "rare",
+        "type": "God "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "72",
+        "name": "Green Cubic",
+        "rarity": "rare",
+        "type": "Egg"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "73",
+        "name": "Biolith Bomber",
+        "rarity": "common",
+        "type": "Blitz"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "74",
+        "name": "Biolith Stinger",
+        "rarity": "rare",
+        "type": "Bug"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "75",
+        "name": "Imperial Biolith Guard",
+        "rarity": "common",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "76",
+        "name": "Biolith Battle Chariot",
+        "rarity": "common",
+        "type": "Weapon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "77",
+        "name": "Morning Star Warrior",
+        "rarity": "common",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "78",
+        "name": "Biolith Ninja",
+        "rarity": "rare",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "79",
+        "name": "Behemoth Groundbreaker",
+        "rarity": "uncommon",
+        "type": "Weapon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "80",
+        "name": "Dragoon Dragon Cavalry",
+        "rarity": "uncommon",
+        "type": "Mech"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "81",
+        "name": "Taurus Monolith",
+        "rarity": "uncommon",
+        "type": "Titan"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "82",
+        "name": "Aegis Citadel",
+        "rarity": "rare",
+        "type": "Base"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "83",
+        "name": "Arc Satellite Cannon",
+        "rarity": "rare",
+        "type": "Blitz"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "84",
+        "name": "Ouroboros Dragon",
+        "rarity": "ultra_rare",
+        "type": "Dragon"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "85",
+        "name": "Tino, Son of Scion",
+        "rarity": "ultra_rare",
+        "type": "Hero"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "86",
+        "name": "Wormak, Biolith Heir",
+        "rarity": "ultra_rare",
+        "type": "Betrayer"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "87",
+        "name": "Scion Biolith Lord",
+        "rarity": "ultra_rare",
+        "type": "Noble"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "88",
+        "name": "Guardian Watchtower",
+        "rarity": "ultra_rare",
+        "type": "Ancient"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "89",
+        "name": "Phaseus, Biolith God",
+        "rarity": "ultra_rare",
+        "type": "God "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "90",
+        "name": "White Cubic",
+        "rarity": "ultra_rare",
+        "type": "Egg "
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "91",
+        "name": "Parmetic Holy Feast",
+        "rarity": "uncommon",
+        "type": "Ritual"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "92",
+        "name": "Goghlie Altar",
+        "rarity": "uncommon",
+        "type": "Ritual"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "93",
+        "name": "Summoner Mesmer's Lapse",
+        "rarity": "uncommon",
+        "type": "Ritual"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "94",
+        "name": "Beguiling Fog",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "95",
+        "name": "Yuga's Mesmerizing Fog",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "96",
+        "name": "Clare Wil's Banner",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "97",
+        "name": "Healing Shower",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "98",
+        "name": "Fissures of Goghlie",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "99",
+        "name": "Great Tolicore Quake",
+        "rarity": "rare",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "100",
+        "name": "Summoner Mesmer's Errand",
+        "rarity": "common",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "101",
+        "name": "Tinoan Telekinesis",
+        "rarity": "uncommon",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "102",
+        "name": "Tinoan Teleportation",
+        "rarity": "uncommon",
+        "type": "Conjuration"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "103",
+        "name": "Sciondar Inferno",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "104",
+        "name": "Ice Flood of Okunada",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "105",
+        "name": "Fist of Verzar",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "106",
+        "name": "Wrathful Winds of Juno",
+        "rarity": "uncommon",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "107",
+        "name": "Blinding Skies",
+        "rarity": "ultra_rare",
+        "type": "Dominion"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "108",
+        "name": "Scion's Riotous Impunity",
+        "rarity": "rare",
+        "type": "Sorcery"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "109",
+        "name": "Seer Vizak's Calamity",
+        "rarity": "rare",
+        "type": "Sorcery"
+    },
+    {
+        "py/object": "Card.Card",
+        "id": "110",
+        "name": "Call of Timeless Juno",
+        "rarity": "rare",
+        "type": "Sorcery"
+    }
+]
