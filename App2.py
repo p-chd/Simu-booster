@@ -58,7 +58,6 @@ def fun1():
 # Créer la fenêtre principale
 window = ctk.CTk()
 window.geometry("1920x1080")
-window.state("zoomed")
 window.title("EoJ Deck Maker")
 window.iconbitmap("resources\logo.ico")
 
