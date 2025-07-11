@@ -70,6 +70,8 @@ def importCardListFromJSON(JSONPath):
     f = open(JSONPath + ".json", "r")
     cardList = jsonpickle.decode(f.read())
     f.close()
+    for k in cardList:
+        k.id = int(k.id) #Force les id a etre des int. Utile pour le tri par exemple.
     return cardList
 
 #Creer une liste de carte uniquement à partir des cartes communes d'une autre liste de cartes
@@ -88,6 +90,10 @@ def countRarity(cardList, rarity):
             counter += 1
     return counter
 
+def sortById(l):
+    L = sorted(l, key=lambda x : x.id)
+    return L
+    
 #Fonction de test
 def main():
 
@@ -116,7 +122,6 @@ def main2():
     cardListSetOne = importCardListFromJSON(".\data\dataSetOne")
     cardListSetTwo = importCardListFromJSON(".\data\dataSetTwo")
     cardListSetThree = importCardListFromJSON(".\data\dataSetThree")
-
     print("Import done\n")
 
     print("Concatenation...")
@@ -134,7 +139,7 @@ def main2():
     L = createDeck(commonCardList, uncommonCardList, rareCardList, veryrareCardList, 200)
     print("Deck created.\n")
 
-    print("Couting by rarity from deck...")
+    print("Counting by rarity from deck...")
     commonCount = countRarity(L, "common")
     uncommonCount = countRarity(L, "uncommon")
     rareCount = countRarity(L, "rare")
@@ -142,6 +147,8 @@ def main2():
     print("Count done.\n")
 
     print(f"Commons: {commonCount}\nUncommons: {uncommonCount}\nRares: {rareCount}\nUltra_rare: {ultraRareCount}\n")
+
+    return L
     
 
 if __name__ == "__main__":

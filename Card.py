@@ -14,7 +14,7 @@ class Card:
                 -"ultra_rare"
             type (string): Le type/famille de la carte.
             """
-        self.id = id
+        self.id = int(id)
         self.name = name
         self.rarity = rarity
         self.type = type
