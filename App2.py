@@ -3,6 +3,7 @@ from tkinter import Menu, Label, PhotoImage, BooleanVar
 from Card import Card
 from main import main2, sortById, printList, importCardListFromJSON, retrieveByRarity, createDeck
 from pygame import mixer 
+from scrapCard import cardListToCSV, saveCSV
 
 
 mixer.init()
@@ -20,6 +21,11 @@ def unpause():
 def stop():
     mixer.music.stop()
 
+
+def export_fun():
+    global deck
+    CSV = cardListToCSV(deck)
+    saveCSV("deck", CSV)
 
 cardListSetOne = list()
 cardListSetTwo = list()
@@ -84,6 +90,10 @@ sets_menu.add_checkbutton(label="Set 1", variable=setOneBool)
 sets_menu.add_checkbutton(label="Set 2", variable=setTwoBool)
 sets_menu.add_checkbutton(label="Set 3", variable=setThreeBool)
 menu_bar.add_cascade(label="Sets", menu=sets_menu)
+
+export_menu = Menu(menu_bar, tearoff=0)
+export_menu.add_command(label="Exporter le deck actuel en CSV", command=export_fun)
+menu_bar.add_cascade(label="Export", menu=export_menu)
 
 window.configure(menu=menu_bar)
 
