@@ -1,5 +1,5 @@
 py -m venv venv
-.venv\Scripts\ativate
+.venv\Scripts\activate
 pip install -r requirements.txt
-.venv\Scripts\python.exe App2.py
+py App2.py
 pause
